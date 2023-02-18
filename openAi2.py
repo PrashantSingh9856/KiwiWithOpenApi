@@ -1,7 +1,7 @@
 
 import openai as ai
 
-ai.api_key = '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' # replace with your key from earlier
+ai.api_key = 'your api key' # replace with your key from earlier
 
 def generate_gpt3_response(user_text, print_output=False):
     """
